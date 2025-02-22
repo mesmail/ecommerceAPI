@@ -37,5 +37,5 @@ It supports **user authentication, product management, order processing, perform
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ecommerce-api.git
-cd ecommerce-api
+git clone  https://github.com/mesmail/ecommerceAPI.git
+cd ecommerceAPI
